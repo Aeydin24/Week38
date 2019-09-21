@@ -1,0 +1,21 @@
+QUESTION - Explain the rationale behind the topic Object Relational Mapping and the Pros and Cons in using ORM:
+
+ANSWER - 
+PROS:
+By making use of JPA and ORM we disregard the need for writing boring, repetitive and filling code.
+With ORM, we also don't have to create a direct database connection with code.
+We lessen the threat of SQL injections since most queries are prepared and sanitized.
+When we change the underlying database, we dont have to rewrite code.
+CONS:
+Complex queries can hinder the performance
+ORM abstracts the database layer so it can be a hinderance if the developer is not really capable it can be a problem.
+
+
+QUESTION - Explain the JPA strategy for handling Object Relational Mapping and important classes/annotations involved:
+ANSWER - 
+
+
+
+Outline some of the fundamental differences in Database handling using plain JDBC versus JPA:
+
+

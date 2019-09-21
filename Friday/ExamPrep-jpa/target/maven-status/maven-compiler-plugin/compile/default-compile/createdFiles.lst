@@ -1,0 +1,9 @@
+entity/Order_.class
+entity/ItemType.class
+entity/Customer_.class
+entity/ItemType_.class
+facade/CustomerFacade.class
+entity/Customer.class
+entity/OrderLine_.class
+entity/Order.class
+entity/OrderLine.class
